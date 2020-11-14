@@ -1,0 +1,19 @@
+{
+  "name": "metaless-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to remove meta YAML informations from markdown file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namide/metaless-loader.git"
+  },
+  "author": "Namide",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Namide/metaless-loader/issues"
+  },
+  "homepage": "https://github.com/Namide/metaless-loader#readme"
+}
