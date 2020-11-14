@@ -1,3 +1,3 @@
-export default function loader(source) {
+module.exports = function loader(source) {
   return source.replace(/^---(.*?)---/gmis, '')
 }
